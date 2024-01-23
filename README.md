@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @theakshaybhalerao
-- 👀 I’m interested in ReactJS and React Native, Salesforce, Mern Stack and Android. 
-- 🌱 I’m currently learning Salesforce and MERN.
+- 👀 I’m interested in Cloud and Microservices. 
+- 🌱 I work as a full-stack developer in a service-based company.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
